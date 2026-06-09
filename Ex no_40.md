@@ -2,7 +2,7 @@
 
 Complete the function next_permutation which generates the permutations in the described order.
 
-## For example, s=[ab,bc,cd]. The six permutations in correct order are:
+## For example, s=[ab,bc,cd]. The six permutations in correct order are: 
 
 ab bc cd
 ab cd bc
