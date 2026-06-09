@@ -8,7 +8,7 @@ If n>49 print Greater than 49.
 41
 ## Sample Output
 forty one
-## AIM:
+## AIM: 
 To write a C program that prints the lowercase English word for numbers between 41 and 49, and prints "Greater than 49" if the number is more than 49.
 ## ALGORITHM:
 1. Start.
